@@ -48,7 +48,7 @@ int verifcastig()
     }
 }
 
-//Functia care deseneaza tabelul cu x si 0
+//Functia care deseneaza tabelul cu X si 0
 
 void tabel()
 {
